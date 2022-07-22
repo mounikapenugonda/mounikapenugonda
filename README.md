@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Analytics
 - 🌱 I’m currently learning Deep learning, TensorFlow
 - 💞️ I’m looking to collaborate on Job opportunities
-- 📫 How to reach me +91 8919529878
+
 
 <!---
 mounikapenugonda/mounikapenugonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
